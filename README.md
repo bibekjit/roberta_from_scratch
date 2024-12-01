@@ -6,9 +6,13 @@ model config
 15% dynamic masking (whole sequence is masked if sequence is very small)
 
 tokenizer training config
+
 tokenizer trained on 200k unique tokens
+
 vocabulary size = 20020
+
 minimum pair frequency = 50
+
 training iterations = 5
 
 
