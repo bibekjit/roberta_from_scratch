@@ -5,7 +5,7 @@ model config
 
 15% dynamic masking (whole sequence is masked if sequence is very small)
 
-tokenizer training config
+### tokenizer training config
 
 tokenizer trained on 200k unique tokens
 
