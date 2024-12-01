@@ -29,9 +29,6 @@ Model pretrained on total 270k plus steps (10 epochs * 27k steps per epoch)
 
 Pretraining was done on RTX 2060 mobile and took 150hrs to pretrain
 
-### Trained Postional Embedding
-![trained positional embeddings](https://github.com/user-attachments/assets/5812f2a5-c736-4cf8-b848-66bd0b705008)
-
 ### Loss Logs
 ![losses](https://github.com/user-attachments/assets/59043b82-ded9-4c22-8ff7-a3f2ce4e1ca7)
 
