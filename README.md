@@ -1,6 +1,6 @@
 ## ROBERTA Implementation
 
-model config
+### model config
 
 `L=2` `H=256` `A=8` `maxlen=128` `ff_units=1024` 
 
@@ -13,8 +13,9 @@ tokenizer trained on 200k unique tokens
 vocabulary size = 20020
 
 minimum pair frequency = 50
-
 training iterations = 5
+
+
 
 
 
