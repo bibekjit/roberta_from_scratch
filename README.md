@@ -36,3 +36,4 @@ Pretraining was done on RTX 2060 mobile and took 150hrs to pretrain
 
 
 
+
