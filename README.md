@@ -27,6 +27,8 @@ training iterations = 5
 
 Model pretrained on total 270k plus steps (10 epochs * 27k steps per epoch)
 
+6% of total steps were set for linear warm-up and then cosine decay 
+
 Pretraining was done on RTX 2060 mobile and took 150hrs to pretrain
 
 ### Loss Logs
