@@ -35,6 +35,18 @@ Pretraining was done on RTX 2060 mobile and took 150hrs to pretrain
 ![losses](https://github.com/user-attachments/assets/59043b82-ded9-4c22-8ff7-a3f2ce4e1ca7)
 
 
+### How to run model pretraining
+
+Get list of preprocessed text sequences and store it as a pkl file
+
+`train_tokenizer.py --path_to_raw_data=path/to/your/data`
+
+`create_pretraining_data.py --path_to_raw_data=path/to/your/data`
+
+`pretraining.py`
+
+
+
 
 
 
